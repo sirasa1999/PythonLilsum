@@ -1,5 +1,4 @@
 print("hello")
-print("world")
 print("hello world")
 
 # using correct datatype is necessary for effeciency, security and retening a meaning
