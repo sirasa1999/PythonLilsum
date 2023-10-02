@@ -1,4 +1,4 @@
-print("hello")
+# print("hello")
 
 # using correct datatype is necessary for effeciency, security and retening a meaning
 # python:
